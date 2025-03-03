@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2708e4084c4a1534ba646096300f778c, type: 3}
+  m_Name: Room_MediumRoom_Catacombs_4
+  m_EditorClassIdentifier: 
+  guid: d135b5d5a73e5784ead13560f07b4b63
+  prefab: {fileID: 4327421925113694216, guid: aa9a987b833f04748ad7a004cb4a9504, type: 3}
+  previousPrefab: {fileID: 4327421925113694216, guid: aa9a987b833f04748ad7a004cb4a9504, type: 3}
+  roomNodeType: {fileID: 11400000, guid: 55bb7e859f27e1346b9be9b54f9060a7, type: 2}
+  lowerBounds: {x: -1, y: 2}
+  upperBounds: {x: 30, y: 40}
+  doorwayList:
+  - position: {x: 7, y: 40}
+    orientation: 0
+    doorPrefab: {fileID: 5174007390232431866, guid: 760c3f15c0f55a841a4e64c5065ff42a, type: 3}
+    doorwayStartCopyPosition: {x: 4, y: 40}
+    doorwayCopyTileWidth: 5
+    doorwayCopyTileHeight: 6
+    isConnected: 0
+    isUnavailable: 0
+  - position: {x: 22, y: 2}
+    orientation: 2
+    doorPrefab: {fileID: 5174007390232431866, guid: 760c3f15c0f55a841a4e64c5065ff42a, type: 3}
+    doorwayStartCopyPosition: {x: 19, y: 4}
+    doorwayCopyTileWidth: 5
+    doorwayCopyTileHeight: 3
+    isConnected: 0
+    isUnavailable: 0
+  - position: {x: 30, y: 28}
+    orientation: 1
+    doorPrefab: {fileID: 9077463298001389727, guid: 74bae6b30a230c842814403880781add, type: 3}
+    doorwayStartCopyPosition: {x: 27, y: 34}
+    doorwayCopyTileWidth: 4
+    doorwayCopyTileHeight: 8
+    isConnected: 0
+    isUnavailable: 0
+  - position: {x: -1, y: 9}
+    orientation: 3
+    doorPrefab: {fileID: 9077463298001389727, guid: 74bae6b30a230c842814403880781add, type: 3}
+    doorwayStartCopyPosition: {x: -1, y: 15}
+    doorwayCopyTileWidth: 4
+    doorwayCopyTileHeight: 8
+    isConnected: 0
+    isUnavailable: 0
+  spawnPositionArray:
+  - {x: 6, y: 7}
+  - {x: 25, y: 14}
+  - {x: 4, y: 26}
+  - {x: 19, y: 34}
+  enemiesByLevelList:
+  - DungeonLevel: {fileID: 11400000, guid: 19dd17666f02db146a49720ceb384d4b, type: 2}
+    SpawnableObjectRatioList:
+    - DungeonObject: SlimeBlock_Green
+      Ratio: 1
+    - DungeonObject: Hedusa_Green
+      Ratio: 2
+  - DungeonLevel: {fileID: 11400000, guid: 33973ef65d252ed43ad766c45f403ade, type: 2}
+    SpawnableObjectRatioList:
+    - DungeonObject: SlimeBlock_Green
+      Ratio: 5
+    - DungeonObject: SlimeBlock_Blue
+      Ratio: 5
+    - DungeonObject: Hedusa_Green
+      Ratio: 5
+    - DungeonObject: Hedusa_Red
+      Ratio: 5
+  - DungeonLevel: {fileID: 11400000, guid: a68bb8c711a108f439f5c25a9d8deddb, type: 2}
+    SpawnableObjectRatioList:
+    - DungeonObject: SlimeBlock_Green
+      Ratio: 3
+    - DungeonObject: SlimeBlock_Blue
+      Ratio: 1
+    - DungeonObject: SlimeBlock_Red
+      Ratio: 1
+    - DungeonObject: Hedusa_Green
+      Ratio: 1
+    - DungeonObject: Hedusa_Blue
+      Ratio: 1
+    - DungeonObject: Hedusa_Red
+      Ratio: 1
+    - DungeonObject: Orc_Flesh
+      Ratio: 1
+  roomEnemySpawnParametersList:
+  - dungeonLevel: {fileID: 11400000, guid: 19dd17666f02db146a49720ceb384d4b, type: 2}
+    minTotalEnemiesToSpawn: 6
+    maxTotalEnemiesToSpawn: 8
+    minConcurrentEnemies: 3
+    maxConcurrentEnemies: 5
+    minSpawnInterval: 4
+    maxSpawnInterval: 6
+  - dungeonLevel: {fileID: 11400000, guid: 33973ef65d252ed43ad766c45f403ade, type: 2}
+    minTotalEnemiesToSpawn: 7
+    maxTotalEnemiesToSpawn: 9
+    minConcurrentEnemies: 4
+    maxConcurrentEnemies: 7
+    minSpawnInterval: 4
+    maxSpawnInterval: 5
+  - dungeonLevel: {fileID: 11400000, guid: a68bb8c711a108f439f5c25a9d8deddb, type: 2}
+    minTotalEnemiesToSpawn: 9
+    maxTotalEnemiesToSpawn: 11
+    minConcurrentEnemies: 5
+    maxConcurrentEnemies: 9
+    minSpawnInterval: 3
+    maxSpawnInterval: 5

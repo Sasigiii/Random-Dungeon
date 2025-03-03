@@ -1,0 +1,154 @@
+[
+  {
+    "EnumName": 2,
+    "Volume": 1,
+    "SoundEffectPitchRandomVariationMin": 0.8,
+    "SoundEffectPitchRandomVariationMax": 1.2,
+    "CD": 0.1,
+    "Path": "Assets/GameRes/Sounds/SoundEffects/Weapons/PistolFire.wav"
+  },
+  {
+    "EnumName": 3,
+    "Volume": 1,
+    "SoundEffectPitchRandomVariationMin": 0.8,
+    "SoundEffectPitchRandomVariationMax": 1.2,
+    "CD": 1,
+    "Path": "Assets/GameRes/Sounds/SoundEffects/Weapons/PistolReload.wav"
+  },
+  {
+    "EnumName": 4,
+    "Volume": 0.504,
+    "SoundEffectPitchRandomVariationMin": 0.8,
+    "SoundEffectPitchRandomVariationMax": 1.2,
+    "CD": 0.1,
+    "Path": "Assets/GameRes/Sounds/SoundEffects/Weapons/RevolverFire.wav"
+  },
+  {
+    "EnumName": 5,
+    "Volume": 1,
+    "SoundEffectPitchRandomVariationMin": 0.8,
+    "SoundEffectPitchRandomVariationMax": 1.2,
+    "CD": 1,
+    "Path": "Assets/GameRes/Sounds/SoundEffects/Weapons/RevolverReload.wav"
+  },
+  {
+    "EnumName": 6,
+    "Volume": 1,
+    "SoundEffectPitchRandomVariationMin": 0.8,
+    "SoundEffectPitchRandomVariationMax": 1.2,
+    "CD": 0.1,
+    "Path": "Assets/GameRes/Sounds/SoundEffects/Weapons/GM6LynxFire.wav"
+  },
+  {
+    "EnumName": 7,
+    "Volume": 1,
+    "SoundEffectPitchRandomVariationMin": 0.8,
+    "SoundEffectPitchRandomVariationMax": 1.2,
+    "CD": 1,
+    "Path": "Assets/GameRes/Sounds/SoundEffects/Weapons/GM6LynxReload.wav"
+  },
+  {
+    "EnumName": 8,
+    "Volume": 1,
+    "SoundEffectPitchRandomVariationMin": 0.8,
+    "SoundEffectPitchRandomVariationMax": 1.2,
+    "CD": 0.1,
+    "Path": "Assets/GameRes/Sounds/SoundEffects/Weapons/MP7Fire 1.wav"
+  },
+  {
+    "EnumName": 9,
+    "Volume": 1,
+    "SoundEffectPitchRandomVariationMin": 0.8,
+    "SoundEffectPitchRandomVariationMax": 1.2,
+    "CD": 1,
+    "Path": "Assets/GameRes/Sounds/SoundEffects/Weapons/MP7Reload.wav"
+  },
+  {
+    "EnumName": 10,
+    "Volume": 1,
+    "SoundEffectPitchRandomVariationMin": 0.8,
+    "SoundEffectPitchRandomVariationMax": 0.9,
+    "CD": 0.1,
+    "Path": "Assets/GameRes/Sounds/SoundEffects/Weapons/N22LaserBlaster.wav"
+  },
+  {
+    "EnumName": 11,
+    "Volume": 0.7,
+    "SoundEffectPitchRandomVariationMin": 1,
+    "SoundEffectPitchRandomVariationMax": 1.3,
+    "CD": 1,
+    "Path": "Assets/GameRes/Sounds/SoundEffects/Weapons/N22LaserBlasterReload.ogg"
+  },
+  {
+    "EnumName": 12,
+    "Volume": 1,
+    "SoundEffectPitchRandomVariationMin": 0.8,
+    "SoundEffectPitchRandomVariationMax": 1.2,
+    "CD": 0.1,
+    "Path": "Assets/GameRes/Sounds/SoundEffects/Weapons/EnergyFire.wav"
+  },
+  {
+    "EnumName": 13,
+    "Volume": 0.7,
+    "SoundEffectPitchRandomVariationMin": 1,
+    "SoundEffectPitchRandomVariationMax": 1.3,
+    "CD": 1,
+    "Path": "Assets/GameRes/Sounds/SoundEffects/Weapons/EneryReload.wav"
+  },
+  {
+    "EnumName": 14,
+    "Volume": 1,
+    "SoundEffectPitchRandomVariationMin": 0.8,
+    "SoundEffectPitchRandomVariationMax": 1.2,
+    "CD": 0.1,
+    "Path": "Assets/GameRes/Sounds/SoundEffects/Weapons/RifleFire.wav"
+  },
+  {
+    "EnumName": 15,
+    "Volume": 1,
+    "SoundEffectPitchRandomVariationMin": 0.8,
+    "SoundEffectPitchRandomVariationMax": 1.2,
+    "CD": 1,
+    "Path": "Assets/GameRes/Sounds/SoundEffects/Weapons/RifleReload.wav"
+  },
+  {
+    "EnumName": 16,
+    "Volume": 0.9,
+    "SoundEffectPitchRandomVariationMin": 0.9,
+    "SoundEffectPitchRandomVariationMax": 0,
+    "CD": 0.1,
+    "Path": "Assets/GameRes/Sounds/SoundEffects/Weapons/RocketLauncherFiring.ogg"
+  },
+  {
+    "EnumName": 17,
+    "Volume": 1,
+    "SoundEffectPitchRandomVariationMin": 0.8,
+    "SoundEffectPitchRandomVariationMax": 1.2,
+    "CD": 1,
+    "Path": "Assets/GameRes/Sounds/SoundEffects/Weapons/RocketLauncherReload.wav"
+  },
+  {
+    "EnumName": 18,
+    "Volume": 1,
+    "SoundEffectPitchRandomVariationMin": 0.8,
+    "SoundEffectPitchRandomVariationMax": 1.2,
+    "CD": 0.1,
+    "Path": "Assets/GameRes/Sounds/SoundEffects/Weapons/ShotgunFire.wav"
+  },
+  {
+    "EnumName": 19,
+    "Volume": 1,
+    "SoundEffectPitchRandomVariationMin": 0.8,
+    "SoundEffectPitchRandomVariationMax": 1,
+    "CD": 1,
+    "Path": "Assets/GameRes/Sounds/SoundEffects/Weapons/ShotgunReload.wav"
+  },
+  {
+    "EnumName": 20,
+    "Volume": 0.719,
+    "SoundEffectPitchRandomVariationMin": 0.827,
+    "SoundEffectPitchRandomVariationMax": 1,
+    "CD": 0.1,
+    "Path": "Assets/GameRes/Sounds/SoundEffects/Dungeon/Doors/Door.wav"
+  }
+]
